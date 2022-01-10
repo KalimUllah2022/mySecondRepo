@@ -1,7 +1,10 @@
-h1 {
-    color: green;
+.container{
+    /* display: flex; */
 }
-
-h2 {
-    color: red;
+.box{
+    width: 200px;
+    float: right;
+    height: 200px;background-color: lightskyblue;
+    padding: 10px;
+    margin: 10px;
 }
